@@ -1,2 +1,2 @@
-# dsa
-A simple repo for my dsa codes
+# DSA
+A simple repo for DSA practise.
